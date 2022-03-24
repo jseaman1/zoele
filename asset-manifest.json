@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/zoele/static/css/main.f3db45e6.css",
+    "main.js": "/zoele/static/js/main.4a60ea77.js",
+    "static/js/787.b3f9d252.chunk.js": "/zoele/static/js/787.b3f9d252.chunk.js",
+    "static/media/stats-pic.png": "/zoele/static/media/stats-pic.358e6da58414e16b4dec.png",
+    "static/media/settings-pic2.png": "/zoele/static/media/settings-pic2.ab846ea2f985e3dac295.png",
+    "static/media/info-pic.png": "/zoele/static/media/info-pic.f3874a5edfdaa7ed5810.png",
+    "index.html": "/zoele/index.html",
+    "main.f3db45e6.css.map": "/zoele/static/css/main.f3db45e6.css.map",
+    "main.4a60ea77.js.map": "/zoele/static/js/main.4a60ea77.js.map",
+    "787.b3f9d252.chunk.js.map": "/zoele/static/js/787.b3f9d252.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3db45e6.css",
+    "static/js/main.4a60ea77.js"
+  ]
+}
